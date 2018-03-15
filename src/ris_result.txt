@@ -1,0 +1,747 @@
+TY  - CONF
+LB  - DBLP:conf/imc/2017
+A2  - Steve Uhlig and
+               Olaf Maennel
+TI  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+PB  - {ACM}
+PY  - 2017
+UR  - http://dl.acm.org/citation.cfm?id=3131365
+SN  - 978-1-4503-5118-8
+DP  - https://dblp.org/rec/bib/conf/imc/2017
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/GiotsasRSFDB17
+AU  - Vasileios Giotsas and
+               Philipp Richter and
+               Georgios Smaragdakis and
+               Anja Feldmann and
+               Christoph Dietzel and
+               Arthur W. Berger
+TI  - Inferring {BGP} blackholing activity in the internet
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 1--14
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131379
+DO  - 10.1145/3131365.3131379
+DP  - https://dblp.org/rec/bib/conf/imc/GiotsasRSFDB17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/FontugnePAB17
+AU  - Romain Fontugne and
+               Cristel Pelsser and
+               Emile Aben and
+               Randy Bush
+TI  - Pinpointing delay and forwarding anomalies using large-scale traceroute
+               measurements
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 15--28
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131384
+DO  - 10.1145/3131365.3131384
+DP  - https://dblp.org/rec/bib/conf/imc/FontugnePAB17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/VanaubelMPD17
+AU  - -}Jacques Pansiot and
+               Benoit Donnet
+TI  - Through the wormhole: tracking invisible {MPLS} tunnels
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 29--42
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131378
+DO  - 10.1145/3131365.3131378
+DP  - https://dblp.org/rec/bib/conf/imc/VanaubelMPD17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/SundaresanDFLD17
+AU  - Srikanth Sundaresan and
+               Xiaohong Deng and
+               Yun Feng and
+               Danny Lee and
+               Amogh Dhamdhere
+TI  - Challenges in inferring internet congestion using throughput measurements
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 43--56
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131382
+DO  - 10.1145/3131365.3131382
+DP  - https://dblp.org/rec/bib/conf/imc/SundaresanDFLD17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/FanouVD17
+AU  - e}}rick Fanou and
+               Francisco Valera and
+               Amogh Dhamdhere
+TI  - Investigating the causes of congestion on the african {IXP} substrate
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 57--63
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131394
+DO  - 10.1145/3131365.3131394
+DP  - https://dblp.org/rec/bib/conf/imc/FanouVD17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/SundaresanADC17
+AU  - Srikanth Sundaresan and
+               Mark Allman and
+               Amogh Dhamdhere and
+               kc claffy
+TI  - {TCP} congestion signatures
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 64--77
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131381
+DO  - 10.1145/3131365.3131381
+DP  - https://dblp.org/rec/bib/conf/imc/SundaresanADC17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/ZhangLZK17
+AU  - Qiao Zhang and
+               Vincent Liu and
+               Hongyi Zeng and
+               Arvind Krishnamurthy
+TI  - High-resolution measurement of data center microbursts
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 78--85
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131375
+DO  - 10.1145/3131365.3131375
+DP  - https://dblp.org/rec/bib/conf/imc/ZhangLZK17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/LichtblauSKRF17
+AU  - u}}ger and
+               Philipp Richter and
+               Anja Feldmann
+TI  - Detection, classification, and analysis of inter-domain traffic with
+               spoofed source {IP} addresses
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 86--99
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131367
+DO  - 10.1145/3131365.3131367
+DP  - https://dblp.org/rec/bib/conf/imc/LichtblauSKRF17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/JonkerKKRSD17
+AU  - Mattijs Jonker and
+               Alistair King and
+               Johannes Krupp and
+               Christian Rossow and
+               Anna Sperotto and
+               Alberto Dainotti
+TI  - Millions of targets under attack: a macroscopic characterization of
+               the DoS ecosystem
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 100--113
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131383
+DO  - 10.1145/3131365.3131383
+DP  - https://dblp.org/rec/bib/conf/imc/JonkerKKRSD17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/WangCQSK17
+AU  - Zhongjie Wang and
+               Yue Cao and
+               Zhiyun Qian and
+               Chengyu Song and
+               Srikanth V. Krishnamurthy
+TI  - Your state is not mine: a closer look at evading stateful internet
+               censorship
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 114--127
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131374
+DO  - 10.1145/3131365.3131374
+DP  - https://dblp.org/rec/bib/conf/imc/WangCQSK17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/LiRKNCGM17
+AU  - Fangfan Li and
+               Abbas Razaghpanah and
+               Arash Molavi Kakhki and
+               Arian Akhavan Niaki and
+               David R. Choffnes and
+               Phillipa Gill and
+               Alan Mislove
+TI  - lib{\textbullet}erate, (n): a library for exposing (traffic-classification)
+               rules and avoiding them efficiently
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 128--141
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131376
+DO  - 10.1145/3131365.3131376
+DP  - https://dblp.org/rec/bib/conf/imc/LiRKNCGM17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/PapadopoulosRKL17
+AU  - \i}}guez and
+               Nicolas Kourtellis and
+               Nikolaos Laoutaris
+TI  - If you are not paying for it, you are the product: how much do advertisers
+               pay to reach you?
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 142--156
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131397
+DO  - 10.1145/3131365.3131397
+DP  - https://dblp.org/rec/bib/conf/imc/PapadopoulosRKL17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/DeBlasioGVS17
+AU  - Joe DeBlasio and
+               Saikat Guha and
+               Geoffrey M. Voelker and
+               Alex C. Snoeren
+TI  - Exploring the dynamics of search advertiser fraud
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 157--170
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131393
+DO  - 10.1145/3131365.3131393
+DP  - https://dblp.org/rec/bib/conf/imc/DeBlasioGVS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/IqbalSQ17
+AU  - Umar Iqbal and
+               Zubair Shafiq and
+               Zhiyun Qian
+TI  - The ad wars: retrospective measurement and analysis of anti-adblock
+               filter lists
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 171--183
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131387
+DO  - 10.1145/3131365.3131387
+DP  - https://dblp.org/rec/bib/conf/imc/IqbalSQ17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/KlineBCS17
+AU  - Jeffery Kline and
+               Paul Barford and
+               Aaron Cahn and
+               Joel Sommers
+TI  - On the structure and characteristics of user agent string
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 184--190
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131406
+DO  - 10.1145/3131365.3131406
+DP  - https://dblp.org/rec/bib/conf/imc/KlineBCS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/RulaBS17
+AU  - a}}n E. Bustamante and
+               Moritz Steiner
+TI  - Cell spotting: studying the role of cellular networks in the internet
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 191--204
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131402
+DO  - 10.1145/3131365.3131402
+DP  - https://dblp.org/rec/bib/conf/imc/RulaBS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/BhartiaCWPMLM17
+AU  - -}Te Lai and
+               Hao Ma
+TI  - Measurement-based, practical techniques to improve 802.11ac performance
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 205--219
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131398
+DO  - 10.1145/3131365.3131398
+DP  - https://dblp.org/rec/bib/conf/imc/BhartiaCWPMLM17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/XuSMJ17
+AU  - Shichang Xu and
+               Subhabrata Sen and
+               Zhuoqing Morley Mao and
+               Yunhan Jia
+TI  - Dissecting {VOD} services for cellular: performance, root causes and
+               best practices
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 220--234
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131386
+DO  - 10.1145/3131365.3131386
+DP  - https://dblp.org/rec/bib/conf/imc/XuSMJ17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/AndradeBGHPTV17
+AU  - Carlos E. Andrade and
+               Simon D. Byers and
+               Vijay Gopalakrishnan and
+               Emir Halepovic and
+               David J. Poole and
+               Lien K. Tran and
+               Christopher T. Volinsky
+TI  - Connected cars in cellular network: a measurement study
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 235--241
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131403
+DO  - 10.1145/3131365.3131403
+DP  - https://dblp.org/rec/bib/conf/imc/AndradeBGHPTV17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/MurdockLBDP17
+AU  - Austin Murdock and
+               Frank Li and
+               Paul Bramsen and
+               Zakir Durumeric and
+               Vern Paxson
+TI  - Target generation for internet-wide IPv6 scanning
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 242--253
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131405
+DO  - 10.1145/3131365.3131405
+DP  - https://dblp.org/rec/bib/conf/imc/MurdockLBDP17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/LevchenkoDHCAP17
+AU  - Kirill Levchenko and
+               Amogh Dhamdhere and
+               Bradley Huffaker and
+               kc claffy and
+               Mark Allman and
+               Vern Paxson
+TI  - Packetlab: a universal measurement endpoint interface
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 254--260
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131396
+DO  - 10.1145/3131365.3131396
+DP  - https://dblp.org/rec/bib/conf/imc/LevchenkoDHCAP17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/SommersDB17
+AU  - Joel Sommers and
+               Ramakrishnan Durairajan and
+               Paul Barford
+TI  - Automatic metadata generation for active measurement
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 261--267
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131400
+DO  - 10.1145/3131365.3131400
+DP  - https://dblp.org/rec/bib/conf/imc/SommersDB17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/AndersonBLLRT17
+AU  - Daniel Anderson and
+               Pryce Bevan and
+               Kevin J. Lang and
+               Edo Liberty and
+               Lee Rhodes and
+               Justin Thaler
+TI  - A high-performance algorithm for identifying frequent items in data
+               streams
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 268--282
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131407
+DO  - 10.1145/3131365.3131407
+DP  - https://dblp.org/rec/bib/conf/imc/AndersonBLLRT17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/Cho17
+AU  - Kenjiro Cho
+TI  - Recursive lattice search: hierarchical heavy hitters revisited
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 283--289
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131377
+DO  - 10.1145/3131365.3131377
+DP  - https://dblp.org/rec/bib/conf/imc/Cho17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/KakhkiJCNM17
+AU  - -}Rotaru and
+               Alan Mislove
+TI  - Taking a long look at {QUIC:} an approach for rigorous evaluation
+               of rapidly evolving transport protocols
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 290--303
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131368
+DO  - 10.1145/3131365.3131368
+DP  - https://dblp.org/rec/bib/conf/imc/KakhkiJCNM17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/RuthBH17
+AU  - u}}th and
+               Christian Bormann and
+               Oliver Hohlfeld
+TI  - Large-scale scanning of TCP's initial window
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 304--310
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131370
+DO  - 10.1145/3131365.3131370
+DP  - https://dblp.org/rec/bib/conf/imc/RuthBH17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/GoodchildCHLCLL17
+AU  - -}Bassett
+TI  - The record route option is an option!
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 311--317
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131392
+DO  - 10.1145/3131365.3131392
+DP  - https://dblp.org/rec/bib/conf/imc/GoodchildCHLCLL17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/PujolSWH17
+AU  - Eduardo E. P. Pujol and
+               Will Scott and
+               Eric Wustrow and
+               J. Alex Halderman
+TI  - Initial measurements of the cuban street network
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 318--324
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131395
+DO  - 10.1145/3131365.3131395
+DP  - https://dblp.org/rec/bib/conf/imc/PujolSWH17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/AmannGSBCH17
+AU  - Johanna Amann and
+               Oliver Gasser and
+               Quirin Scheitle and
+               Lexi Brent and
+               Georg Carle and
+               Ralph Holz
+TI  - Mission accomplished?: {HTTPS} security after diginotar
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 325--340
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131401
+DO  - 10.1145/3131365.3131401
+DP  - https://dblp.org/rec/bib/conf/imc/AmannGSBCH17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/DeBlasioSVS17
+AU  - Joe DeBlasio and
+               Stefan Savage and
+               Geoffrey M. Voelker and
+               Alex C. Snoeren
+TI  - Tripwire: inferring internet site compromise
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 341--354
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131391
+DO  - 10.1145/3131365.3131391
+DP  - https://dblp.org/rec/bib/conf/imc/DeBlasioSVS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/FarooqiZLS17
+AU  - Shehroze Farooqi and
+               Fareed Zaffar and
+               Nektarios Leontiadis and
+               Zubair Shafiq
+TI  - Measuring and mitigating oauth access token abuse by collusion networks
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 355--368
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131404
+DO  - 10.1145/3131365.3131404
+DP  - https://dblp.org/rec/bib/conf/imc/FarooqiZLS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/ChungRCLMMW17
+AU  - -}Deij and
+               David R. Choffnes and
+               Dave Levin and
+               Bruce M. Maggs and
+               Alan Mislove and
+               Christo Wilson
+TI  - Understanding the role of registrars in {DNSSEC} deployment
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 369--383
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131373
+DO  - 10.1145/3131365.3131373
+DP  - https://dblp.org/rec/bib/conf/imc/ChungRCLMMW17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/YaoXWVZZ17
+AU  - Yuanshun Yao and
+               Zhujun Xiao and
+               Bolun Wang and
+               Bimal Viswanath and
+               Haitao Zheng and
+               Ben Y. Zhao
+TI  - Complexity vs. performance: empirical analysis of machine learning
+               as a service
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 384--397
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131372
+DO  - 10.1145/3131365.3131372
+DP  - https://dblp.org/rec/bib/conf/imc/YaoXWVZZ17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/MiQZW17
+AU  - Xianghang Mi and
+               Feng Qian and
+               Ying Zhang and
+               XiaoFeng Wang
+TI  - An empirical characterization of {IFTTT:} ecosystem, usage, and performance
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 398--404
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131369
+DO  - 10.1145/3131365.3131369
+DP  - https://dblp.org/rec/bib/conf/imc/MiQZW17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/ZannettouCCKLSS17
+AU  - Savvas Zannettou and
+               Tristan Caulfield and
+               Emiliano De Cristofaro and
+               Nicolas Kourtellis and
+               Ilias Leontiadis and
+               Michael Sirivianos and
+               Gianluca Stringhini and
+               Jeremy Blackburn
+TI  - The web centipede: understanding how web communities influence each
+               other through the lens of mainstream and alternative news sources
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 405--417
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131390
+DO  - 10.1145/3131365.3131390
+DP  - https://dblp.org/rec/bib/conf/imc/ZannettouCCKLSS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/SzurdiC17
+AU  - Janos Szurdi and
+               Nicolas Christin
+TI  - Email typosquatting
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 419--431
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131399
+DO  - 10.1145/3131365.3131399
+DP  - https://dblp.org/rec/bib/conf/imc/SzurdiC17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/SnyderDKM17
+AU  - Peter Snyder and
+               Periwinkle Doerfler and
+               Chris Kanich and
+               Damon McCoy
+TI  - Fifteen minutes of unwanted fame: detecting and characterizing doxing
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 432--444
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131385
+DO  - 10.1145/3131365.3131385
+DP  - https://dblp.org/rec/bib/conf/imc/SnyderDKM17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/ThomasPHCB17
+AU  - Daniel R. Thomas and
+               Sergio Pastrana and
+               Alice Hutchings and
+               Richard Clayton and
+               Alastair R. Beresford
+TI  - Ethical issues in research using datasets of illicit origin
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 445--462
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131389
+DO  - 10.1145/3131365.3131389
+DP  - https://dblp.org/rec/bib/conf/imc/ThomasPHCB17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/GharaibehSHZEP17
+AU  - Manaf Gharaibeh and
+               Anant Shah and
+               Bradley Huffaker and
+               Han Zhang and
+               Roya Ensafi and
+               Christos Papadopoulos
+TI  - A look at router geolocation in public and commercial databases
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 463--469
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131380
+DO  - 10.1145/3131365.3131380
+DP  - https://dblp.org/rec/bib/conf/imc/GharaibehSHZEP17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/KotronisNMMD17
+AU  - Vasileios Kotronis and
+               George Nomikos and
+               Lefteris Manassakis and
+               Dimitris Mavrommatis and
+               Xenofontas A. Dimitropoulos
+TI  - Shortcuts through colocation facilities
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 470--476
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131388
+DO  - 10.1145/3131365.3131388
+DP  - https://dblp.org/rec/bib/conf/imc/KotronisNMMD17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/VriesSHHBP17
+AU  - -}Tjerk de Boer and
+               Aiko Pras
+TI  - Broad and load-aware anycast mapping with verfploeter
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 477--488
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131371
+DO  - 10.1145/3131365.3131371
+DP  - https://dblp.org/rec/bib/conf/imc/VriesSHHBP17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/imc/MullerMSH17
+AU  - u}}ller and
+               Giovane C. M. Moura and
+               Ricardo de Oliveira Schmidt and
+               John S. Heidemann
+TI  - Recursives in the wild: engineering authoritative {DNS} servers
+C3  - Proceedings of the 2017 Internet Measurement Conference, {IMC} 2017,
+               London, United Kingdom, November 1-3, 2017
+SP  - 489--495
+PY  - 2017
+UR  - http://doi.acm.org/10.1145/3131365.3131366
+DO  - 10.1145/3131365.3131366
+DP  - https://dblp.org/rec/bib/conf/imc/MullerMSH17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+

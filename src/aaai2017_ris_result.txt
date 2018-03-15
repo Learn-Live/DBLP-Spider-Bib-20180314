@@ -1,0 +1,13 @@
+TY  - CONF
+LB  - DBLP:conf/aaai/2017
+A2  - Satinder P. Singh and
+               Shaul Markovitch
+TI  - Proceedings of the Thirty-First {AAAI} Conference on Artificial Intelligence,
+               February 4-9, 2017, San Francisco, California, {USA}
+PB  - {AAAI} Press
+PY  - 2017
+UR  - http://www.aaai.org/Library/AAAI/aaai17contents.php
+DP  - https://dblp.org/rec/bib/conf/aaai/2017
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+

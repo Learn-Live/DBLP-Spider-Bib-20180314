@@ -1,0 +1,1088 @@
+TY  - CONF
+LB  - DBLP:conf/nips/2017
+A2  - Isabelle Guyon and
+               Ulrike von Luxburg and
+               Samy Bengio and
+               Hanna M. Wallach and
+               Rob Fergus and
+               S. V. N. Vishwanathan and
+               Roman Garnett
+TI  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+PY  - 2017
+DP  - https://dblp.org/rec/bib/conf/nips/2017
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/HeGXLHB17
+AU  - Zhen He and
+               Shaobing Gao and
+               Liang Xiao and
+               Daxue Liu and
+               Hangen He and
+               David Barber
+TI  - Wider and Deeper, Cheaper and Faster: Tensorized LSTMs for Sequence
+               Learning
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 1--11
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6606-wider-and-deeper-cheaper-and-faster-tensorized-lstms-for-sequence-learning
+DP  - https://dblp.org/rec/bib/conf/nips/HeGXLHB17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/DaskalakisDK17
+AU  - Constantinos Daskalakis and
+               Nishanth Dikkala and
+               Gautam C. Kamath
+TI  - Concentration of Multilinear Functions of the Ising Model with Applications
+               to Network Data
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 12--22
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6607-concentration-of-multilinear-functions-of-the-ising-model-with-applications-to-network-data
+DP  - https://dblp.org/rec/bib/conf/nips/DaskalakisDK17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/JiZLSR17
+AU  - Pan Ji and
+               Tong Zhang and
+               Hongdong Li and
+               Mathieu Salzmann and
+               Ian D. Reid
+TI  - Deep Subspace Clustering Networks
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 23--32
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks
+DP  - https://dblp.org/rec/bib/conf/nips/JiZLSR17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/GirdharR17
+AU  - Rohit Girdhar and
+               Deva Ramanan
+TI  - Attentional Pooling for Action Recognition
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 33--44
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6609-attentional-pooling-for-action-recognition
+DP  - https://dblp.org/rec/bib/conf/nips/GirdharR17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/Jiang17
+AU  - Heinrich Jiang
+TI  - On the Consistency of Quick Shift
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 45--54
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6610-on-the-consistency-of-quick-shift
+DP  - https://dblp.org/rec/bib/conf/nips/Jiang17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/PedregosaLL17
+AU  - -}Julien
+TI  - Breaking the Nonsmooth Barrier: {A} Scalable Parallel Method for Composite
+               Optimization
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 55--64
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6611-breaking-the-nonsmooth-barrier-a-scalable-parallel-method-for-composite-optimization
+DP  - https://dblp.org/rec/bib/conf/nips/PedregosaLL17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/ZhaoXKLZWPSYF17
+AU  - Jian Zhao and
+               Lin Xiong and
+               Jayashree Karlekar and
+               Jianshu Li and
+               Fang Zhao and
+               Zhecan Wang and
+               Sugiri Pranata and
+               Shengmei Shen and
+               Shuicheng Yan and
+               Jiashi Feng
+TI  - Dual-Agent GANs for Photorealistic and Identity Preserving Profile
+               Face Synthesis
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 65--75
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6612-dual-agent-gans-for-photorealistic-and-identity-preserving-profile-face-synthesis
+DP  - https://dblp.org/rec/bib/conf/nips/ZhaoXKLZWPSYF17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/ChangZHYGTCWHH17
+AU  - -}Johnson and
+               Thomas S. Huang
+TI  - Dilated Recurrent Neural Networks
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 76--86
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6613-dilated-recurrent-neural-networks
+DP  - https://dblp.org/rec/bib/conf/nips/ChangZHYGTCWHH17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/VermaZ17
+AU  - -}Li Zhang
+TI  - Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 87--97
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6614-hunt-for-the-unique-stable-sparse-and-fast-feature-learning-on-graphs
+DP  - https://dblp.org/rec/bib/conf/nips/VermaZ17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/JunBNW17
+AU  - -}Sung Jun and
+               Aniruddha Bhargava and
+               Robert D. Nowak and
+               Rebecca Willett
+TI  - Scalable Generalized Linear Bandits: Online Computation and Hashing
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 98--108
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6615-scalable-generalized-linear-bandits-online-computation-and-hashing
+DP  - https://dblp.org/rec/bib/conf/nips/JunBNW17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/OatesNLBG17
+AU  - -}Xavier Briol and
+               Mark A. Girolami
+TI  - Probabilistic Models for Integration Error in the Assessment of Functional
+               Cardiac Models
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 109--117
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6616-probabilistic-models-for-integration-error-in-the-assessment-of-functional-cardiac-models
+DP  - https://dblp.org/rec/bib/conf/nips/OatesNLBG17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/BlanchardMGS17
+AU  - Peva Blanchard and
+               El Mahdi El Mhamdi and
+               Rachid Guerraoui and
+               Julien Stainer
+TI  - Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 118--128
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6617-machine-learning-with-adversaries-byzantine-tolerant-gradient-descent
+DP  - https://dblp.org/rec/bib/conf/nips/BlanchardMGS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/MhamdiGHM17
+AU  - El Mahdi El Mhamdi and
+               Rachid Guerraoui and
+               Hadrien Hendrikx and
+               Alexandre Maurer
+TI  - Dynamic Safe Interruptibility for Decentralized Multi-Agent Reinforcement
+               Learning
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 129--139
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6618-dynamic-safe-interruptibility-for-decentralized-multi-agent-reinforcement-learning
+DP  - https://dblp.org/rec/bib/conf/nips/MhamdiGHM17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/00030K17
+AU  - Lin Chen and
+               Andreas Krause and
+               Amin Karbasi
+TI  - Interactive Submodular Bandit
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 140--151
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6619-interactive-submodular-bandit
+DP  - https://dblp.org/rec/bib/conf/nips/00030K17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/0001LKFT17
+AU  - Jiajun Wu and
+               Erika Lu and
+               Pushmeet Kohli and
+               Bill Freeman and
+               Josh Tenenbaum
+TI  - Learning to See Physics via Visual De-animation
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 152--163
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6620-learning-to-see-physics-via-visual-de-animation
+DP  - https://dblp.org/rec/bib/conf/nips/0001LKFT17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/LuoZHL17
+AU  - -}Fei Li
+TI  - Label Efficient Learning of Transferable Representations acrosss Domains
+               and Tasks
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 164--176
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6621-label-efficient-learning-of-transferable-representations-acrosss-domains-and-tasks
+DP  - https://dblp.org/rec/bib/conf/nips/LuoZHL17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/HeLXQ0L17
+AU  - -}Yan Liu
+TI  - Decoding with Value Networks for Neural Machine Translation
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 177--186
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6622-decoding-with-value-networks-for-neural-machine-translation
+DP  - https://dblp.org/rec/bib/conf/nips/HeLXQ0L17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/PangLVZ17
+AU  - Haotian Pang and
+               Han Liu and
+               Robert J. Vanderbei and
+               Tuo Zhao
+TI  - Parametric Simplex Method for Sparse Learning
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 187--196
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6623-parametric-simplex-method-for-sparse-learning
+DP  - https://dblp.org/rec/bib/conf/nips/PangLVZ17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/ChenWDH17
+AU  - Hong Chen and
+               Xiaoqian Wang and
+               Cheng Deng and
+               Heng Huang
+TI  - Group Sparse Additive Machine
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 197--207
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6624-group-sparse-additive-machine
+DP  - https://dblp.org/rec/bib/conf/nips/ChenWDH17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/RowlandW17
+AU  - Mark Rowland and
+               Adrian Weller
+TI  - Uprooting and Rerooting Higher-Order Graphical Models
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 208--217
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6625-uprooting-and-rerooting-higher-order-graphical-models
+DP  - https://dblp.org/rec/bib/conf/nips/RowlandW17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/ChoromanskiRW17
+AU  - Krzysztof Marcin Choromanski and
+               Mark Rowland and
+               Adrian Weller
+TI  - The Unreasonable Effectiveness of Structured Random Orthogonal Embeddings
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 218--227
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6626-the-unreasonable-effectiveness-of-structured-random-orthogonal-embeddings
+DP  - https://dblp.org/rec/bib/conf/nips/ChoromanskiRW17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/ZafarVGGW17
+AU  - -}Rodriguez and
+               Krishna P. Gummadi and
+               Adrian Weller
+TI  - From Parity to Preference-based Notions of Fairness in Classification
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 228--238
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6627-from-parity-to-preference-based-notions-of-fairness-in-classification
+DP  - https://dblp.org/rec/bib/conf/nips/ZafarVGGW17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/VarmaHBKBRR17
+AU  - e}}
+TI  - Inferring Generative Model Structure with Static Analysis
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 239--249
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6628-inferring-generative-model-structure-with-static-analysis
+DP  - https://dblp.org/rec/bib/conf/nips/VarmaHBKBRR17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/RudolphRAB17
+AU  - Maja R. Rudolph and
+               Francisco J. R. Ruiz and
+               Susan Athey and
+               David M. Blei
+TI  - Structured Embedding Models for Grouped Data
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 250--260
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6629-structured-embedding-models-for-grouped-data
+DP  - https://dblp.org/rec/bib/conf/nips/RudolphRAB17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/JitkrittumX0FG17
+AU  - o}} and
+               Kenji Fukumizu and
+               Arthur Gretton
+TI  - A Linear-Time Kernel Goodness-of-Fit Test
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 261--270
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6630-a-linear-time-kernel-goodness-of-fit-test
+DP  - https://dblp.org/rec/bib/conf/nips/JitkrittumX0FG17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/CostaASFV17
+AU  - Rui Ponte Costa and
+               Ioannis Alexandros M. Assael and
+               Brendan Shillingford and
+               Nando de Freitas and
+               Tim P. Vogels
+TI  - Cortical microcircuits as gated-recurrent neural networks
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 271--282
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6631-cortical-microcircuits-as-gated-recurrent-neural-networks
+DP  - https://dblp.org/rec/bib/conf/nips/CostaASFV17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/LimW17
+AU  - Cong Han Lim and
+               Stephen J. Wright
+TI  - k-Support and Ordered Weighted Sparsity for Overlapping Groups: Hardness
+               and Algorithms
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 283--291
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6632-k-support-and-ordered-weighted-sparsity-for-overlapping-groups-hardness-and-algorithms
+DP  - https://dblp.org/rec/bib/conf/nips/LimW17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/SrivastavaV17
+AU  - Nisheeth Srivastava and
+               Edward Vul
+TI  - A simple model of recognition and recall memory
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 292--300
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6633-a-simple-model-of-recognition-and-recall-memory
+DP  - https://dblp.org/rec/bib/conf/nips/SrivastavaV17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/OsokinBL17
+AU  - -}Julien
+TI  - On Structured Prediction Theory with Calibrated Convex Surrogate Losses
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 301--312
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6634-on-structured-prediction-theory-with-calibrated-convex-surrogate-losses
+DP  - https://dblp.org/rec/bib/conf/nips/OsokinBL17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/LuKYPB17
+AU  - Jiasen Lu and
+               Anitha Kannan and
+               Jianwei Yang and
+               Devi Parikh and
+               Dhruv Batra
+TI  - Best of Both Worlds: Transferring Knowledge from Discriminative Learning
+               to a Generative Visual Dialog Model
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 313--323
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6635-best-of-both-worlds-transferring-knowledge-from-discriminative-learning-to-a-generative-visual-dialog-model
+DP  - https://dblp.org/rec/bib/conf/nips/LuKYPB17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/HuHS17
+AU  - -}Bin Huang and
+               Alexander G. Schwing
+TI  - MaskRNN: Instance Level Video Object Segmentation
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 324--333
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6636-maskrnn-instance-level-video-object-segmentation
+DP  - https://dblp.org/rec/bib/conf/nips/HuHS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/WangH17
+AU  - Jianfeng Wang and
+               Xiaolin Hu
+TI  - Gated Recurrent Convolution Neural Network for {OCR}
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 334--343
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr
+DP  - https://dblp.org/rec/bib/conf/nips/WangH17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/LinZP17
+AU  - Xiaofan Lin and
+               Cong Zhao and
+               Wei Pan
+TI  - Towards Accurate Binary Convolutional Neural Network
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 344--352
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network
+DP  - https://dblp.org/rec/bib/conf/nips/LinZP17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/LaiH017
+AU  - -}Hsuan Yang
+TI  - Semi-Supervised Learning for Optical Flow with Generative Adversarial
+               Networks
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 353--363
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6639-semi-supervised-learning-for-optical-flow-with-generative-adversarial-networks
+DP  - https://dblp.org/rec/bib/conf/nips/LaiH017
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/KarHM17
+AU  - a}}ne and
+               Jitendra Malik
+TI  - Learning a Multi-View Stereo Machine
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 364--375
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6640-learning-a-multi-view-stereo-machine
+DP  - https://dblp.org/rec/bib/conf/nips/KarHM17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/ScarlettC17
+AU  - Jonathan Scarlett and
+               Volkan Cevher
+TI  - Phase Transitions in the Pooled Data Problem
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 376--384
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6641-phase-transitions-in-the-pooled-data-problem
+DP  - https://dblp.org/rec/bib/conf/nips/ScarlettC17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/LiFYWLY17
+AU  - -}Hsuan Yang
+TI  - Universal Style Transfer via Feature Transforms
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 385--395
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6642-universal-style-transfer-via-feature-transforms
+DP  - https://dblp.org/rec/bib/conf/nips/LiFYWLY17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/OhamaSKA17
+AU  - Iku Ohama and
+               Issei Sato and
+               Takuya Kida and
+               Hiroki Arimura
+TI  - On the Model Shrinkage Effect of Gamma Process Edge Partition Models
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 396--404
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6643-on-the-model-shrinkage-effect-of-gamma-process-edge-partition-models
+DP  - https://dblp.org/rec/bib/conf/nips/OhamaSKA17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/MaJSSTG17
+AU  - Liqian Ma and
+               Xu Jia and
+               Qianru Sun and
+               Bernt Schiele and
+               Tinne Tuytelaars and
+               Luc Van Gool
+TI  - Pose Guided Person Image Generation
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 405--415
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6644-pose-guided-person-image-generation
+DP  - https://dblp.org/rec/bib/conf/nips/MaJSSTG17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/ErdogduDM17
+AU  - Murat A. Erdogdu and
+               Yash Deshpande and
+               Andrea Montanari
+TI  - Inference in Graphical Models via Semidefinite Programming Hierarchies
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 416--424
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6645-inference-in-graphical-models-via-semidefinite-programming-hierarchies
+DP  - https://dblp.org/rec/bib/conf/nips/ErdogduDM17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/KazemitabarABT17
+AU  - Jalil Kazemitabar and
+               Arash Amini and
+               Adam Bloniarz and
+               Ameet S. Talwalkar
+TI  - Variable Importance Using Decision Trees
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 425--434
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6646-variable-importance-using-decision-trees
+DP  - https://dblp.org/rec/bib/conf/nips/KazemitabarABT17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/KanaiFI17
+AU  - Sekitoshi Kanai and
+               Yasuhiro Fujiwara and
+               Sotetsu Iwamura
+TI  - Preventing Gradient Explosions in Gated Recurrent Units
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 435--444
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6647-preventing-gradient-explosions-in-gated-recurrent-units
+DP  - https://dblp.org/rec/bib/conf/nips/KanaiFI17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/DuWS17
+AU  - Simon S. Du and
+               Yining Wang and
+               Aarti Singh
+TI  - On the Power of Truncated {SVD} for General High-rank Matrix Estimation
+               Problems
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 445--455
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6648-on-the-power-of-truncated-svd-for-general-high-rank-matrix-estimation-problems
+DP  - https://dblp.org/rec/bib/conf/nips/DuWS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/NockCMQW17
+AU  - Richard Nock and
+               Zac Cranko and
+               Aditya Krishna Menon and
+               Lizhen Qu and
+               Robert C. Williamson
+TI  - f-GANs in an Information Geometric Nutshell
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 456--464
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6649-f-gans-in-an-information-geometric-nutshell
+DP  - https://dblp.org/rec/bib/conf/nips/NockCMQW17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/ZhuZPDEWS17
+AU  - -}Yan Zhu and
+               Richard Zhang and
+               Deepak Pathak and
+               Trevor Darrell and
+               Alexei A. Efros and
+               Oliver Wang and
+               Eli Shechtman
+TI  - Toward Multimodal Image-to-Image Translation
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 465--476
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6650-toward-multimodal-image-to-image-translation
+DP  - https://dblp.org/rec/bib/conf/nips/ZhuZPDEWS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/LiCLLGC17
+AU  - Dongsheng Li and
+               Chao Chen and
+               Wei Liu and
+               Tun Lu and
+               Ning Gu and
+               Stephen M. Chu
+TI  - Mixture-Rank Matrix Approximation for Collaborative Filtering
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 477--485
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6651-mixture-rank-matrix-approximation-for-collaborative-filtering
+DP  - https://dblp.org/rec/bib/conf/nips/LiCLLGC17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/BianL0B17
+AU  - Andrew An Bian and
+               Kfir Yehuda Levy and
+               Andreas Krause and
+               Joachim M. Buhmann
+TI  - Non-monotone Continuous DR-submodular Maximization: Structure and
+               Algorithms
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 486--496
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6652-non-monotone-continuous-dr-submodular-maximization-structure-and-algorithms
+DP  - https://dblp.org/rec/bib/conf/nips/BianL0B17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/FanLYH17
+AU  - -}Gang Hu
+TI  - Learning with Average Top-k Loss
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 497--505
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6653-learning-with-average-top-k-loss
+DP  - https://dblp.org/rec/bib/conf/nips/FanLYH17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/RebuffiBV17
+AU  - -}Alvise Rebuffi and
+               Hakan Bilen and
+               Andrea Vedaldi
+TI  - Learning multiple visual domains with residual adapters
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 506--516
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6654-learning-multiple-visual-domains-with-residual-adapters
+DP  - https://dblp.org/rec/bib/conf/nips/RebuffiBV17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/Tibshirani17
+AU  - Ryan J. Tibshirani
+TI  - Dykstra's Algorithm, ADMM, and Coordinate Descent: Connections, Insights,
+               and Extensions
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 517--528
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6655-dykstras-algorithm-admm-and-coordinate-descent-connections-insights-and-extensions
+DP  - https://dblp.org/rec/bib/conf/nips/Tibshirani17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/SuG17
+AU  - -}Chuan Su and
+               Kristen Grauman
+TI  - Learning Spherical Convolution for Fast Features from 360{\textdegree}
+               Imagery
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 529--539
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6656-learning-spherical-convolution-for-fast-features-from-360-imagery
+DP  - https://dblp.org/rec/bib/conf/nips/SuG17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/0001WXSFT17
+AU  - Jiajun Wu and
+               Yifan Wang and
+               Tianfan Xue and
+               Xingyuan Sun and
+               Bill Freeman and
+               Josh Tenenbaum
+TI  - MarrNet: 3D Shape Reconstruction via 2.5D Sketches
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 540--550
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6657-marrnet-3d-shape-reconstruction-via-25d-sketches
+DP  - https://dblp.org/rec/bib/conf/nips/0001WXSFT17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/IlievskiF17
+AU  - Ilija Ilievski and
+               Jiashi Feng
+TI  - Multimodal Learning and Reasoning for Visual Question Answering
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 551--562
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6658-multimodal-learning-and-reasoning-for-visual-question-answering
+DP  - https://dblp.org/rec/bib/conf/nips/IlievskiF17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/FathonyBZ17
+AU  - Rizal Fathony and
+               Mohammad Ali Bashiri and
+               Brian D. Ziebart
+TI  - Adversarial Surrogate Losses for Ordinal Regression
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 563--573
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6659-adversarial-surrogate-losses-for-ordinal-regression
+DP  - https://dblp.org/rec/bib/conf/nips/FathonyBZ17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/DuKSP17
+AU  - o}}czos
+TI  - Hypothesis Transfer Learning via Transformation Functions
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 574--584
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6660-hypothesis-transfer-learning-via-transformation-functions
+DP  - https://dblp.org/rec/bib/conf/nips/DuKSP17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/XieDDHN17
+AU  - Qizhe Xie and
+               Zihang Dai and
+               Yulun Du and
+               Eduard H. Hovy and
+               Graham Neubig
+TI  - Controllable Invariance through Adversarial Feature Learning
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 585--596
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6661-controllable-invariance-through-adversarial-feature-learning
+DP  - https://dblp.org/rec/bib/conf/nips/XieDDHN17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/LiY17
+AU  - Yuanzhi Li and
+               Yang Yuan
+TI  - Convergence Analysis of Two-layer Neural Networks with ReLU Activation
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 597--607
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6662-convergence-analysis-of-two-layer-neural-networks-with-relu-activation
+DP  - https://dblp.org/rec/bib/conf/nips/LiY17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/MurataS17
+AU  - Tomoya Murata and
+               Taiji Suzuki
+TI  - Doubly Accelerated Stochastic Variance Reduced Dual Averaging Method
+               for Regularized Empirical Risk Minimization
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 608--617
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6663-doubly-accelerated-stochastic-variance-reduced-dual-averaging-method-for-regularized-empirical-risk-minimization
+DP  - https://dblp.org/rec/bib/conf/nips/MurataS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/YeZM17
+AU  - Nanyang Ye and
+               Zhanxing Zhu and
+               Rafal Mantiuk
+TI  - Langevin Dynamics with Continuous Tempering for Training Deep Neural
+               Networks
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 618--626
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6664-langevin-dynamics-with-continuous-tempering-for-training-deep-neural-networks
+DP  - https://dblp.org/rec/bib/conf/nips/YeZM17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/Garber17
+AU  - Dan Garber
+TI  - Efficient Online Linear Optimization with Approximation Algorithms
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 627--635
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6665-efficient-online-linear-optimization-with-approximation-algorithms
+DP  - https://dblp.org/rec/bib/conf/nips/Garber17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/ChenML17
+AU  - Shixiang Chen and
+               Shiqian Ma and
+               Wei Liu
+TI  - Geometric Descent Method for Convex Composite Minimization
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 636--644
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6666-geometric-descent-method-for-convex-composite-minimization
+DP  - https://dblp.org/rec/bib/conf/nips/ChenML17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/LiWZ17
+AU  - Chris Junchi Li and
+               Mengdi Wang and
+               Tong Zhang
+TI  - Diffusion Approximations for Online Principal Component Estimation
+               and Global Convergence
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 645--655
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6667-diffusion-approximations-for-online-principal-component-estimation-and-global-convergence
+DP  - https://dblp.org/rec/bib/conf/nips/LiWZ17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/KilbertusRPHJS17
+AU  - o}}lkopf
+TI  - Avoiding Discrimination through Causal Reasoning
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 656--666
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6668-avoiding-discrimination-through-causal-reasoning
+DP  - https://dblp.org/rec/bib/conf/nips/KilbertusRPHJS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/KuzborskijC17
+AU  - -}Bianchi
+TI  - Nonparametric Online Regression while Learning the Metric
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 667--676
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6669-nonparametric-online-regression-while-learning-the-metric
+DP  - https://dblp.org/rec/bib/conf/nips/KuzborskijC17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/QuadriantoS17
+AU  - Novi Quadrianto and
+               Viktoriia Sharmanska
+TI  - Recycling Privileged Learning and Distribution Matching for Fairness
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 677--688
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6670-recycling-privileged-learning-and-distribution-matching-for-fairness
+DP  - https://dblp.org/rec/bib/conf/nips/QuadriantoS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/nips/BrownS17
+AU  - Noam Brown and
+               Tuomas Sandholm
+TI  - Safe and Nested Subgame Solving for Imperfect-Information Games
+C3  - Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}
+SP  - 689--699
+PY  - 2017
+UR  - http://papers.nips.cc/paper/6671-safe-and-nested-subgame-solving-for-imperfect-information-games
+DP  - https://dblp.org/rec/bib/conf/nips/BrownS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+

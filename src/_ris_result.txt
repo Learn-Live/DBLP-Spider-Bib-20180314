@@ -1,0 +1,47 @@
+TY  - CONF
+LB  - DBLP:conf/ijcai/2017
+A2  - Carles Sierra
+TI  - Proceedings of the Twenty-Sixth International Joint Conference on
+               Artificial Intelligence, {IJCAI} 2017, Melbourne, Australia, August
+               19-25, 2017
+PB  - ijcai.org
+PY  - 2017
+UR  - http://www.ijcai.org/Proceedings/2017/
+SN  - 978-0-9992411-0-3
+DP  - https://dblp.org/rec/bib/conf/ijcai/2017
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/ijcai/BellomariniGPS17
+AU  - Luigi Bellomarini and
+               Georg Gottlob and
+               Andreas Pieris and
+               Emanuel Sallinger
+TI  - Swift Logic for Big Data and Knowledge Graphs
+C3  - Proceedings of the Twenty-Sixth International Joint Conference on
+               Artificial Intelligence, {IJCAI} 2017, Melbourne, Australia, August
+               19-25, 2017
+SP  - 2--10
+PY  - 2017
+UR  - https://doi.org/10.24963/ijcai.2017/1
+DO  - 10.24963/ijcai.2017/1
+DP  - https://dblp.org/rec/bib/conf/ijcai/BellomariniGPS17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
+TY  - CONF
+LB  - DBLP:conf/ijcai/Jin17
+AU  - Rong Jin
+TI  - Deep Learning at Alibaba
+C3  - Proceedings of the Twenty-Sixth International Joint Conference on
+               Artificial Intelligence, {IJCAI} 2017, Melbourne, Australia, August
+               19-25, 2017
+SP  - 11--16
+PY  - 2017
+UR  - https://doi.org/10.24963/ijcai.2017/2
+DO  - 10.24963/ijcai.2017/2
+DP  - https://dblp.org/rec/bib/conf/ijcai/Jin17
+DB  - dblp computer science bibliography, https://dblp.org
+ER  -  
+
