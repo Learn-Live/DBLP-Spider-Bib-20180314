@@ -31,6 +31,8 @@ headers['User-Agent']=random.choice(USER_AGENTS)
 headers['Accept']= "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
 #headers['Accept-Encoding']= 'utf-8,gzip, deflate, sdch'
 headers['Accept-Language']= 'zh-CN,zh;q=0.8'
+headers['Referer']='http://dblp.uni-trier.de'
+headers['Connection']='keep-alive'
 
 def achieve_user_agent():
 	#return {'User-Agent':random.choice(USER_AGENTS)}

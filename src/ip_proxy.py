@@ -8,6 +8,21 @@ from http_error_handle import resolve_redirects
 from user_agents import achieve_user_agent
 
 
+def use_proxy():
+	# Proxy(代理)的设置
+	# urllib2 默认会使用环境变量 http_proxy 来设置 HTTP Proxy。
+	# 假如一个网站它会检测某一段时间某个IP 的访问次数，如果访问次数过多，它会禁止你的访问。
+	# 所以可以设置一些代理服务器来帮助你做工作，每隔一段时间换一个代理
+	enable_proxy = True
+	proxy_handler = urllib.request.ProxyHandler({"http": 'http://some-proxy.com:8080'})
+	null_proxy_handler = urllib.request.ProxyHandler({})
+	if enable_proxy:
+	    opener = urllib.request.build_opener(proxy_handler)
+	else:
+	    opener = urllib.request.build_opener(null_proxy_handler)
+	urllib.request.install_opener(opener)
+
+
 def get_proxy_ip_list(web_url, web_headers):
 	req = urllib.request.Request(url=web_url, headers=web_headers)  # 构造请求报头
 	# webpage = urllib.request.urlopen(req,timeout=10)  # 发送请求报头
